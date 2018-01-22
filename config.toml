@@ -90,6 +90,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/harding_derek"
+[[menu.links]]
+  weight = 3
+  identifier = "facebook"
+  name = "Facebook"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook-official\"></i>"
+  url = "https://www.facebook.com/dhvols1"
 
 [[menu.misc]]
   weight = 1
